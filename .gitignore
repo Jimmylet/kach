@@ -5,3 +5,6 @@ bin
 .vagrant
 .idea
 .DS_Store
+*.log
+logs
+.node_repl_history
